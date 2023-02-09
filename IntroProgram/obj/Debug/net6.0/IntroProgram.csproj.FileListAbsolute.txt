@@ -1,0 +1,15 @@
+C:\Users\s221150\source\repos\IntroProgram\IntroProgram\bin\Debug\net6.0\IntroProgram.exe
+C:\Users\s221150\source\repos\IntroProgram\IntroProgram\bin\Debug\net6.0\IntroProgram.deps.json
+C:\Users\s221150\source\repos\IntroProgram\IntroProgram\bin\Debug\net6.0\IntroProgram.runtimeconfig.json
+C:\Users\s221150\source\repos\IntroProgram\IntroProgram\bin\Debug\net6.0\IntroProgram.dll
+C:\Users\s221150\source\repos\IntroProgram\IntroProgram\bin\Debug\net6.0\IntroProgram.pdb
+C:\Users\s221150\source\repos\IntroProgram\IntroProgram\obj\Debug\net6.0\IntroProgram.csproj.AssemblyReference.cache
+C:\Users\s221150\source\repos\IntroProgram\IntroProgram\obj\Debug\net6.0\IntroProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s221150\source\repos\IntroProgram\IntroProgram\obj\Debug\net6.0\IntroProgram.AssemblyInfoInputs.cache
+C:\Users\s221150\source\repos\IntroProgram\IntroProgram\obj\Debug\net6.0\IntroProgram.AssemblyInfo.cs
+C:\Users\s221150\source\repos\IntroProgram\IntroProgram\obj\Debug\net6.0\IntroProgram.csproj.CoreCompileInputs.cache
+C:\Users\s221150\source\repos\IntroProgram\IntroProgram\obj\Debug\net6.0\IntroProgram.dll
+C:\Users\s221150\source\repos\IntroProgram\IntroProgram\obj\Debug\net6.0\refint\IntroProgram.dll
+C:\Users\s221150\source\repos\IntroProgram\IntroProgram\obj\Debug\net6.0\IntroProgram.pdb
+C:\Users\s221150\source\repos\IntroProgram\IntroProgram\obj\Debug\net6.0\IntroProgram.genruntimeconfig.cache
+C:\Users\s221150\source\repos\IntroProgram\IntroProgram\obj\Debug\net6.0\ref\IntroProgram.dll
